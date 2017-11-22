@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510151008 source:e:\computer prog\ex7\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1510151416 source:d:\computer prog\ex7\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<cmath>
+
